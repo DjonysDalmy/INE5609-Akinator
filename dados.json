@@ -1,0 +1,71 @@
+[
+    [
+        "É aquático?",
+        [
+            [
+                "É pequeno?",
+                [
+                    [
+                        "Aparece em um filme famoso?",
+                        [
+                            "Peixe palhaço",
+                            "Tainha"
+                        ]
+                    ],
+                    "Baleia"
+                ]
+            ],
+            [
+                "Sabe voar?",
+                [
+                    [
+                        "É azul?",
+                        [
+                            "Arara azul",
+                            "Papagaio"
+                        ]
+                    ],
+                    "Cavalo"
+                ]
+            ]
+        ]
+    ],
+    [
+        "Faz miau?",
+        [
+            "Gato",
+            [
+                "Sabe voar?",
+                [
+                    "Gaivota",
+                    [
+                        "É selvagem?",
+                        [
+                            [
+                                "Sobe em árvores?",
+                                [
+                                    "Macaco",
+                                    [
+                                        "Tem uma tromba?",
+                                        [
+                                            "Elefante",
+                                            "Lobo"
+                                        ]
+                                    ]
+                                ]
+                            ],
+                            [
+                                "Dá pra andar em cima?",
+                                [
+                                    "Cavalo",
+                                    "Cachorro"
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ],
+    "Gato"
+]
